@@ -1,3 +1,5 @@
+//to check if a linked list containing characters is a palindrome or not
+
 import java.util.*;
 class palindrome
 {
