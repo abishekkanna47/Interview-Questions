@@ -1,6 +1,6 @@
 import java.util.*;
 
-class lloop{
+class loopdetect{
 
 static class Node {
 	int data;
