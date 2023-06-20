@@ -1,3 +1,5 @@
+//Program to detect loop present in a linked list without Floyd's algorithm
+
 import java.util.*;
 
 class loopdetect{
